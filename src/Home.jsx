@@ -47,7 +47,7 @@ export default function Home() {
           <div className="hero-text fade-in-up">
             <h1>ENTER THE WORLD OF CS2</h1>
             <p className="hero-subtitle">
-              Master precision. Dominate strategy. Become a legend in the ultimate competitive FPS experience.
+              Master precision. Dominate strategy. Become a legend in the ultimate competitive FPS experience. Made by Kevin
             </p>
 
             <div className="hero-buttons">
